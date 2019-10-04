@@ -1,4 +1,5 @@
-my_hash = {
+def my_hash 
+  {
  
   "fruit" => "apple",
   "vegetable" => "cucumber",
@@ -9,7 +10,7 @@ my_hash = {
 end
 
 
-def shipping_manifest {
+shipping_manifest = {
  
   "apple" => "a delicious fruit",
   "this readme" => "wonderful and informative piece of reading",
