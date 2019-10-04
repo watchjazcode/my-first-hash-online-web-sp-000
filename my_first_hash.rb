@@ -1,22 +1,22 @@
 def my_hash 
-  {
+  your_hash = {
  
   "fruit" => "apple",
   "vegetable" => "cucumber",
   "candy" => "Reeses" 
-  
-}
+  }
 
 end
 
 
-shipping_manifest = {
+def shipping_manifest 
+  {
  
   "apple" => "a delicious fruit",
   "this readme" => "wonderful and informative piece of reading",
   "Moby Dick" => "a novel by my good friend, Herman Melville"
- 
-}
+    
+  }
   # set a variable called `the_manifest`, equal to a hash
   # fill that hash with key/value pairs that describe the following information: 
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
