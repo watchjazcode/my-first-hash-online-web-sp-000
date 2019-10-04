@@ -12,9 +12,9 @@ end
 def shipping_manifest 
   the_manifest {
  
-  "whale bone corsets" => "a delicious fruit",
-  "porcelain vases" => "wonderful and informative piece of reading",
-  "oil paintings" => "a novel by my good friend, Herman Melville"
+  "whale bone corsets" => 5,
+  "porcelain vases" => 2,
+  "oil paintings" => 3
     
   }
   # set a variable called `the_manifest`, equal to a hash
